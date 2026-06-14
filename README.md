@@ -192,9 +192,19 @@ Chat session ended.
 
 # 📸 Screenshots
 
+## Source code
+
+<img width="2880" height="1800" alt="code" src="https://github.com/user-attachments/assets/df7b3333-8a99-4481-a6f7-350fc82a34a2" />
+
+```
+screenshots/code.png
+```
+
+---
+
 ## Welcome Screen
 
-> *(Add screenshot here)*
+<img width="2270" height="990" alt="welcome" src="https://github.com/user-attachments/assets/8cca1bd5-72e3-4340-bc23-134085077503" />
 
 ```
 screenshots/welcome.png
@@ -204,7 +214,7 @@ screenshots/welcome.png
 
 ## Conversation Example
 
-> *(Add screenshot here)*
+<img width="2100" height="1046" alt="conversation" src="https://github.com/user-attachments/assets/24ae7947-b4d1-4715-a52f-3efba1f81b37" />
 
 ```
 screenshots/conversation.png
@@ -212,19 +222,9 @@ screenshots/conversation.png
 
 ---
 
-## Help Command
-
-> *(Add screenshot here)*
-
-```
-screenshots/help.png
-```
-
----
-
 ## Exit Screen
 
-> *(Add screenshot here)*
+<img width="1588" height="372" alt="exit" src="https://github.com/user-attachments/assets/d148f685-f3cc-45fe-b6e4-286970d91674" />
 
 ```
 screenshots/exit.png
@@ -311,7 +311,7 @@ If you'd like to improve this project:
 **AI & ML Enthusiast | Python Developer | Open Source Learner**
 
 GitHub:
-https://github.com/samyakjainx
+https://github.com/samyakjainx/
 
 LinkedIn:
 https://www.linkedin.com/in/samyakjain-ai/
