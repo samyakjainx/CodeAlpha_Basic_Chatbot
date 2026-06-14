@@ -75,9 +75,9 @@ CodeAlpha_Basic_Chatbot/
 ├── .gitignore
 │
 ├── screenshots/
+│   ├── code.png
 │   ├── welcome.png
-│   ├── conversation.png
-│   ├── help.png
+│   ├── conversation.png 
 │   └── exit.png
 │
 └── assets/
@@ -234,7 +234,7 @@ screenshots/exit.png
 
 # 🎥 Demo
 
-> *(Add your demo GIF here after recording)*
+<img width="2880" height="1700" alt="demo" src="https://github.com/user-attachments/assets/d92bc562-fb9e-48f8-89fb-10cc90c6b84f" />
 
 ```
 assets/demo.gif
